@@ -1,0 +1,19 @@
+﻿@model MyLayout.Models.LoginModel
+@{
+    this.Layout = "~/Views/Shared/_privateLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Logged_IN</title>
+</head>
+<body>
+    <div>
+        <h3>Welcome @Session["UserName"]
+</h3>
+    </div>
+</body>
+</html>

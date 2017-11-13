@@ -1,0 +1,43 @@
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\MyLayout.dll.config
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\MyLayout.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\MyLayout.pdb
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\Microsoft.Web.Infrastructure.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Helpers.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Mvc.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Razor.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.Deployment.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.Razor.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Razor.xml
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.xml
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.Deployment.xml
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.Razor.xml
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Helpers.xml
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\bin\System.Web.Mvc.xml
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\obj\Debug\MyLayout.csproj.CoreCompileInputs.cache
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\obj\Debug\MyLayout.dll
+E:\CSE STUDY\11.fall\ATP-2\MyCode\lab_4\MyWeb\MyLayout\obj\Debug\MyLayout.pdb
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\MyLayout.dll.config
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\MyLayout.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\MyLayout.pdb
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Helpers.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Mvc.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Razor.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.Razor.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Razor.xml
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.xml
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Webpages.Razor.xml
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Helpers.xml
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\bin\System.Web.Mvc.xml
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\obj\Debug\MyLayout.csprojResolveAssemblyReference.cache
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\obj\Debug\MyLayout.csproj.CoreCompileInputs.cache
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\obj\Debug\MyLayout.dll
+C:\Users\rana\Desktop\study\atp2\lab4all\lab_4\MyWeb\MyLayout\obj\Debug\MyLayout.pdb

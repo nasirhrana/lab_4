@@ -1,0 +1,48 @@
+﻿@model MyLayout.Models.PasswordModel
+@{
+    this.Layout = "~/Views/Shared/_privateLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ChangePass</title>
+</head>
+<body>
+    <div>
+        <fieldset>
+            <legend><b>CHANGE PASSWORD</b></legend>
+            <form method="post">
+                <table>
+                    <tr>
+                        <td><font size="3">Current Password</font></td>
+                        <td>:</td>
+                        <td><input name="password"type="password" /></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><font size="3" color="green">New Password</font></td>
+                        <td>:</td>
+                        <td><input name="newpassword"type="password" /></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><font size="3" color="red">Retype New Password</font></td>
+                        <td>:</td>
+                        <td><input name="confirmpassword"type="password" /></td>
+                        <td></td>
+                    </tr>
+                </table>
+                <hr />
+                <input type="submit" value="Submit" />
+            </form>
+        </fieldset>
+        <hr />
+        @Html.ValidationSummary()
+        @ViewBag.Message
+        <hr />
+    </div>
+</body>
+</html>

@@ -1,0 +1,64 @@
+﻿@model MyLayout.Models.ProfileModel
+@{
+    this.Layout = "~/Views/Shared/_privateLayout.cshtml";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditProfile</title>
+</head>
+<body>
+    <div>
+        <fieldset>
+            <legend><b>EDIT PROFILE</b></legend>
+            <form method="post">
+                <br />
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>Name</td>
+                        <td>:</td>
+                        <td><input name="username" type="text" value="@Session["UserName"]"></td>
+                        <td></td>
+                    </tr>
+                    <tr><td colspan="4"><hr /></td></tr>
+                    <tr>
+                        <td>Email</td>
+                        <td>:</td>
+                        <td>
+                            <input name="email" type="text" value="@Session["email"]">
+                            <abbr title="hint: sample@example.com"><b>i</b></abbr>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr><td colspan="4"><hr /></td></tr>
+                    <tr>
+                        <td>Gender</td>
+                        <td>:</td>
+                        <td>
+                            <input type="radio" name="gender" value="male" checked> Male
+                            <input type="radio" name="gender" value="female" > Female
+                            <input type="radio" name="gender" value="other" > other
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr><td colspan="4"><hr /></td></tr>
+                    <tr>
+                        <td valign="top">Date of Birth</td>
+                        <td valign="top">:</td>
+                        <td>
+                            <input name="dateofbirth" type="text" value="@Session["birth"]">
+                            <br />
+                            <font size="2"><i>(dd/mm/yyyy)</i></font>
+                        </td>
+                        <td></td>
+                    </tr>
+                </table>
+                <hr />
+                <input type="submit" value="Submit">
+            </form>
+        </fieldset>
+    </div>
+</body>
+</html>
